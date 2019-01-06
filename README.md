@@ -1,4 +1,4 @@
-xmlToJSON
+**************xmlToJSON
 =========
 
 A simple javascript module for converting XML into JSON within the browser.

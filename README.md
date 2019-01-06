@@ -1,4 +1,4 @@
-**************xmlToJSON Creating a new branch is quick.
+xmlToJSON Creating a new branch is quick.
 =========
 
 A simple javascript module for converting XML into JSON within the browser.
